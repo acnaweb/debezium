@@ -1,4 +1,4 @@
-# debezium
+# Debezium
 
 Stream changes from your database
 
@@ -23,8 +23,6 @@ Stream changes from your database
 
 ![](https://docs.confluent.io/platform/current/_images/schema-registry-ecosystem.jpg)
 ![](assets/images/schema_registry.jpeg)
-
-
 
 ## Oportunities
 
