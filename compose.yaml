@@ -1,0 +1,8 @@
+services:
+  debezium_postgres:
+    image: debezium/postgres:16
+    container_name: debezium_postgres
+    ports:
+      - "5439:5432"
+    environment:
+      - POSTGRES_PASSWORD=my_pwd
